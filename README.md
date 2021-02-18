@@ -1,2 +1,2 @@
 # Machine Learning - Helper Files
-Helper functions and cheatsheet for machine learning and data mining in python
+This section includes code snippets and helper functions for data analysis, variable transformation and machine learning in python
